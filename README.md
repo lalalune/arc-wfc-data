@@ -9,5 +9,5 @@ The code to generate the dataset is included in generator. You can generator a m
 ## Run the generator
 
 ```bash
-python -m wfc_generator.generate
+python -m wfc_generator.generate --num_challenges 10 --train_ratio 0.9 --output_dir ./data
 ```

@@ -1,2 +1,3 @@
 .DS_STORE
 *.png
+__pycache__
